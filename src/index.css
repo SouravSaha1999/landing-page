@@ -254,6 +254,7 @@ width: 600px;
 }
 #presentation h1{
 font-size: 2rem;
+color: #00b7ff;
 }
 #services{
   width:100%;
@@ -410,7 +411,7 @@ border-radius: 20px;
   color: white;
   padding: 5px 0;
   text-align: center;
-  width: 100vw;
+  width: 100%;
 }
 
 .footer-bottom p{
